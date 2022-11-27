@@ -2,7 +2,7 @@
 
 Free open-source cross-platform cheat software for **Counter-Strike: Global Offensive** game. Designed as an internal cheat - [Dynamic-link library](https://en.wikipedia.org/wiki/Dynamic-link_library) (DLL) loadable into game process. Compatible with the Steam version of the game. Available for Windows and Linux systems.
 
-[Join My Discord](https://discord.gg/pwnmy)
+[Join My Discord](https://discord.gg/novacorp)
 
 ## Features
 *   **Aimbot** - aim assistance
